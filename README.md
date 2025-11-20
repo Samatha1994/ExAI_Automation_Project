@@ -17,3 +17,4 @@ Stage4_CN: https://github.com/Samatha1994/Stage4_CN
 
 
 **Challenges faced while installing Automation pipeline in Sahar's system and steps used to resolve them:**
+https://github.com/Samatha1994/Installation-challenges-and-steps-to-resolve
